@@ -1,0 +1,17 @@
+{
+  "name": "user_management_forms_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sayedabdulkarim.github.io/user_management_forms_two",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
